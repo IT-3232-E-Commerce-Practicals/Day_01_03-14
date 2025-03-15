@@ -76,9 +76,9 @@ This program implements an **OOP-based library system** with:
       Example:  
       Library Collection:  
 
-        Printed Book: J.K. Rowling by Harry Potter and the Sorcerer’s Stone, Year: 1997, Pages: 309  
+        Printed Book: J.K. Rowling by Harry Potter and the Sorcerer’s Stone, Year: 1997, Pages: 309 , Popular Pages: 371
         E-Book: Dan Brown by The Da Vinci Code, Year: 2003, Pages:500 
-        Audio Book: Malala Yousafzai by I Am Malala, Year: 2013, Pages:345  
+        Audio Book: Malala Yousafzai by I Am Malala, Year: 2013, Pages:345 , Duration: 12.0 hours 
 
 ---
 
@@ -90,24 +90,24 @@ A **Retail Store** program that allows:
          Example:  
 
          Products in the Store:  
-         Fruit: Banana | Price: 0.8 | Quantity: 200  
-         Vegetable: Tomato | Price: 1.0 | Quantity: 180  
-         Grocery: Sugar | Price: 3.0 | Quantity: 75  
+         Fruit: Banana | Price: 160.0 | Quantity: 10
+         Vegetable: Tomato | Price: 245.0 | Quantity: 5  
+         Grocery: Sugar | Price: 300.0 | Quantity: 1 
 
            -----------------------------------------------  
          After editing Banana:  
 
          Products in the Store:  
-         Fruit: Banana | Price: 1.0 | Quantity: 220  
-         Vegetable: Tomato | Price: 1.0 | Quantity: 180  
-         Grocery: Sugar | Price: 3.0 | Quantity: 75  
+         Fruit: Banana | Price: 200.0 | Quantity: 12  
+         Vegetable: Tomato | Price: 245.0 | Quantity: 5 
+         Grocery: Sugar | Price: 300.0 | Quantity: 1  
 
           -----------------------------------------------  
          After deleting Tomato:  
 
          Products in the Store:  
-         Fruit: Banana | Price: 1.0 | Quantity: 220  
-         Grocery: Sugar | Price: 3.0 | Quantity: 75  
+         Fruit: Banana | Price: 200.0 | Quantity: 12 
+         Grocery: Sugar | Price: 300.0 | Quantity: 1  
 
 ---
 
