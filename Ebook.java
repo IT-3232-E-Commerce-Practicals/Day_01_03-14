@@ -2,7 +2,7 @@ public class Ebook extends Book {
     private int price;
    
 
-    public EBook(String title, String author, int publish_year, int price) {
+    public Ebook(String title, String author, int publish_year, int price) {
         super(title, author, publish_year);
         this.price = price;
         
