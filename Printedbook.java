@@ -2,7 +2,7 @@
 public class Printedbook extends Book {
     private int popularpage;
 
-    public PrintedBook(String title, String author, int publish_year, int popularpage) {
+    public Printedbook(String title, String author, int publish_year, int popularpage) {
         super(title, author, publish_year);
         this.popularpage = popularpage;
     }
