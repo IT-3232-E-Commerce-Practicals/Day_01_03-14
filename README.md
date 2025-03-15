@@ -114,7 +114,7 @@ A **Retail Store** program that allows:
 ## **How to Run the Programs**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/IT-3232-E-Commerce-Practicals/Day_01_03-14
+   git clone https://github.com/IT-3232-E-Commerce-Practicals/Day_01_03-14.git
 2. Navigate to the project directory.
 3. Compile and run Java files using:
 
