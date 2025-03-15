@@ -3,9 +3,9 @@ public class seven {
  
          Library library = new Library(5);
  
-         library.addBook(new PrintedBook("J.K. Rowling", "Harry Potter and the Sorcerer", 1997, 300));
-         library.addBook(new EBook("Dan Brown", "The Da Vinci Code", 2003,500));
-         library.addBook(new AudioBook("Malala Yousafzai", "I Am Malala", 2013, 354));
+         library.addBook(new Printedbook("J.K. Rowling", "Harry Potter and the Sorcerer", 1997, 371));
+         library.addBook(new Ebook("Dan Brown", "The Da Vinci Code", 2003,5000));
+         library.addBook(new Audiobook("Malala Yousafzai", "I Am Malala", 2013, 12));
  
          library.displayBooks();
      }
