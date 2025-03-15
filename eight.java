@@ -4,7 +4,7 @@ public class eight {
 
         store.addProduct(new Fruit("Banana", 160, 10));
         store.addProduct(new Vegetable("Tomato", 245, 5));
-        store.addProduct(new Grocery("Sugar", 300, 0.50));
+        store.addProduct(new Grocery("Sugar", 300, 1));
 
         store.displayProducts();
 
